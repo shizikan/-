@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A page of mine
 
 You can use the [editor on GitHub](https://github.com/shizikan/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
